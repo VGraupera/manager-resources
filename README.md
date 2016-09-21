@@ -10,6 +10,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Topgrading, 3rd Edition: The Proven Hiring and Promoting Method That Turbocharges Company Performance**](https://www.amazon.com/Topgrading-3rd-Promoting-Turbocharges-Performance/dp/1591845262/ref=sr_1_1?s=books&ie=UTF8&qid=1474466051&sr=1-1&keywords=topgrading)
 * [**The Checklist Manifesto: How to Get Things Right**](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_1?s=books&ie=UTF8&qid=1474466852&sr=1-1&keywords=the+checklist+manifesto)
 * [**Drive: The Surprising Truth About What Motivates Us**](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1?s=books&ie=UTF8&qid=1474467169&sr=1-1&keywords=drive+the+surprising+truth+about+what+motivates+us)
+* [**Remote: Office Not Required**](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=sr_1_1?ie=UTF8&qid=1474469559&sr=8-1&keywords=remote+jason+fried)
 
 ##Videos
 
