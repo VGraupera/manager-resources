@@ -8,7 +8,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition**](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?s=books&ie=UTF8&qid=1474465915&sr=1-1&keywords=managing+humans)
 * [**Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams 1st Edition**](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X/ref=sr_1_1?s=books&ie=UTF8&qid=1474465952&sr=1-1&keywords=managing+the+unmanageable)
 * [**Topgrading, 3rd Edition: The Proven Hiring and Promoting Method That Turbocharges Company Performance**](https://www.amazon.com/Topgrading-3rd-Promoting-Turbocharges-Performance/dp/1591845262/ref=sr_1_1?s=books&ie=UTF8&qid=1474466051&sr=1-1&keywords=topgrading)
-* 
+* [**The Checklist Manifesto: How to Get Things Right**](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_1?s=books&ie=UTF8&qid=1474466852&sr=1-1&keywords=the+checklist+manifesto)
 
 ##Videos
 
