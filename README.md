@@ -20,3 +20,7 @@ This is a curated list of talks, books, and other resources for front line engin
 ##Podcasts
 
 * [**Manager Tools Podcast**](https://www.manager-tools.com/podcasts)
+
+##Posts
+
+* [**Why Procrastinators Procrastinate**] (http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
