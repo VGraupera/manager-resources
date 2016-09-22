@@ -23,4 +23,5 @@ This is a curated list of talks, books, and other resources for front line engin
 
 ##Posts
 
-* [**Why Procrastinators Procrastinate**] (http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+* [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+* [**Average Manager vs. Great Manager Explained in 10 sketches**](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d#.9cva05mvz)
