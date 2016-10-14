@@ -11,6 +11,8 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**The Checklist Manifesto: How to Get Things Right**](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000/ref=sr_1_1?s=books&ie=UTF8&qid=1474466852&sr=1-1&keywords=the+checklist+manifesto)
 * [**Drive: The Surprising Truth About What Motivates Us**](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1?s=books&ie=UTF8&qid=1474467169&sr=1-1&keywords=drive+the+surprising+truth+about+what+motivates+us)
 * [**Remote: Office Not Required**](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501/ref=sr_1_1?ie=UTF8&qid=1474469559&sr=8-1&keywords=remote+jason+fried)
+* [**Blindspot: Hidden Biases of Good People**](https://www.amazon.com/Blindspot-Hidden-Biases-Good-People/dp/0553804642/ref=sr_1_1?s=books&ie=UTF8&qid=1358975830&sr=1-1&keywords=blind+spot+mahzarin)
+* [**Extreme Ownership: How U.S. Navy SEALs Lead and Win**](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/ref=sr_1_1?ie=UTF8&qid=1476424405&sr=8-1&keywords=extreme+ownership)
 
 ##Videos
 
