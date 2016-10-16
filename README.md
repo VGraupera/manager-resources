@@ -15,6 +15,8 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Extreme Ownership: How U.S. Navy SEALs Lead and Win**](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/ref=sr_1_1?ie=UTF8&qid=1476424405&sr=8-1&keywords=extreme+ownership)
 * [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
 * [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/)
+* [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321)
+* [**First, Break All the Rules: What the World's Greatest Managers Do Differently**](https://www.amazon.com/gp/product/B00HL2S4LW)
 
 ##Videos
 
