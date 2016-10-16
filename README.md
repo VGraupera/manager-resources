@@ -14,6 +14,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Blindspot: Hidden Biases of Good People**](https://www.amazon.com/Blindspot-Hidden-Biases-Good-People/dp/0553804642/ref=sr_1_1?s=books&ie=UTF8&qid=1358975830&sr=1-1&keywords=blind+spot+mahzarin)
 * [**Extreme Ownership: How U.S. Navy SEALs Lead and Win**](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/ref=sr_1_1?ie=UTF8&qid=1476424405&sr=8-1&keywords=extreme+ownership)
 * [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
+* [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/)
 
 ##Videos
 
