@@ -18,6 +18,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321)
 * [**First, Break All the Rules: What the World's Greatest Managers Do Differently**](https://www.amazon.com/gp/product/B00HL2S4LW)
 * [**The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202)
+* [**Who: The A Method for Hiring**](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194)
 
 ##Videos
 
