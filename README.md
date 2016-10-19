@@ -28,6 +28,7 @@ This is a curated list of talks, books, and other resources for front line engin
 ##Podcasts
 
 * [**Manager Tools Podcast**](https://www.manager-tools.com/podcasts)
+* [**HBR IdeaCast**](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2)
 
 ##Posts
 
