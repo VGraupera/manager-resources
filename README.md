@@ -19,6 +19,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**First, Break All the Rules: What the World's Greatest Managers Do Differently**](https://www.amazon.com/gp/product/B00HL2S4LW)
 * [**The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202)
 * [**Who: The A Method for Hiring**](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194)
+* [**The Essential Drucker: In One Volume the Best of Sixty Years of Peter Drucker's Essential Writings on Management**](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016)
 
 ##Videos
 
