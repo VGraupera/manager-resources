@@ -23,6 +23,7 @@ This is a curated list of talks, books, and other resources for front line engin
 
 ##Videos
 
+* [**Everyday Leadership**](http://www.ted.com/talks/drew_dudley_everyday_leadership?language=en)
 * [**Start with why -- how great leaders inspire action | Simon Sinek**](https://youtu.be/u4ZoJKF_VuA)
 * [**Chris Voss: "Never Split the Difference"**](https://www.youtube.com/watch?v=guZa7mQV1l0)
 
