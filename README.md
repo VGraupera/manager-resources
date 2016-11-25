@@ -35,6 +35,10 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Manager Tools Podcast**](https://www.manager-tools.com/podcasts)
 * [**HBR IdeaCast**](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2)
 
+##Presentations
+
+* [**Netflix Culture: Freedom & Responsibility**](http://www.slideshare.net/reed2001/culture-1798664)
+
 ##Posts
 
 * [**This 90-Day Plan Turns Engineers into Remarkable Managers**](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
