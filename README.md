@@ -38,6 +38,7 @@ This is a curated list of talks, books, and other resources for front line engin
 ##Presentations
 
 * [**Netflix Culture: Freedom & Responsibility**](http://www.slideshare.net/reed2001/culture-1798664)
+* [**The Hubspot Culture Code**](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 
 ##Posts
 
