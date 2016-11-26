@@ -21,6 +21,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Who: The A Method for Hiring**](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194)
 * [**The Essential Drucker: In One Volume the Best of Sixty Years of Peter Drucker's Essential Writings on Management**](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016)
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/)
+* [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
 
 ##Videos
 
