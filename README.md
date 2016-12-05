@@ -22,6 +22,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**The Essential Drucker: In One Volume the Best of Sixty Years of Peter Drucker's Essential Writings on Management**](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016)
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/)
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
+* [**Multipliers: How the Best Leaders Make Everyone Smarter**](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 
 ##Videos
 
@@ -50,3 +51,4 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Google’s Quest to Build a Better Boss**](http://www.nytimes.com/2011/03/13/business/13hire.html?_r=0)
 * [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.pk2x55tcs)
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
+* [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
