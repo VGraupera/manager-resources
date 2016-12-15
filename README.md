@@ -23,6 +23,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/)
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
 * [**Multipliers: How the Best Leaders Make Everyone Smarter**](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
+* [**The Five Dysfunctions of a Team: A Leadership Fable**](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 
 ##Videos
 
