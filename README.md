@@ -15,6 +15,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Extreme Ownership: How U.S. Navy SEALs Lead and Win**](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057/ref=sr_1_1?ie=UTF8&qid=1476424405&sr=8-1&keywords=extreme+ownership)
 * [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
 * [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/)
+* [**Good to Great: Why Some Companies Make the Leap and Others Don't**](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 * [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321)
 * [**First, Break All the Rules: What the World's Greatest Managers Do Differently**](https://www.amazon.com/gp/product/B00HL2S4LW)
 * [**The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't**](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202)
@@ -22,6 +23,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**The Essential Drucker: In One Volume the Best of Sixty Years of Peter Drucker's Essential Writings on Management**](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016)
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/)
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
+* [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790(
 * [**Multipliers: How the Best Leaders Make Everyone Smarter**](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 * [**The Five Dysfunctions of a Team: A Leadership Fable**](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 * [**Shine: Using Brain Science to Get the Best from Your People**](https://www.amazon.com/Shine-Using-Brain-Science-People/dp/1591399238)
