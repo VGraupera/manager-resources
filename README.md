@@ -23,7 +23,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**The Essential Drucker: In One Volume the Best of Sixty Years of Peter Drucker's Essential Writings on Management**](https://www.amazon.com/Essential-Drucker-Druckers-Management-Essentials/dp/0061345016)
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/)
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
-* [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790(
+* [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790)
 * [**Multipliers: How the Best Leaders Make Everyone Smarter**](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 * [**The Five Dysfunctions of a Team: A Leadership Fable**](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 * [**Shine: Using Brain Science to Get the Best from Your People**](https://www.amazon.com/Shine-Using-Brain-Science-People/dp/1591399238)
