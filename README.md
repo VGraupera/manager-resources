@@ -24,6 +24,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
 * [**Multipliers: How the Best Leaders Make Everyone Smarter**](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)
 * [**The Five Dysfunctions of a Team: A Leadership Fable**](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+* [**Shine: Using Brain Science to Get the Best from Your People**](https://www.amazon.com/Shine-Using-Brain-Science-People/dp/1591399238)
 
 ##Videos
 
