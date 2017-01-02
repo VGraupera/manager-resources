@@ -57,3 +57,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.pk2x55tcs)
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
 * [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
+
+##Twitter
+
+* [**Picard Tips**](https://twitter.com/PicardTips)
