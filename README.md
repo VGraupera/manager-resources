@@ -37,6 +37,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Dan Pink: The Puzzle of Motivation**](https://www.ted.com/talks/dan_pink_on_motivation?language=en)
 * [**Chris Voss: "Never Split the Difference"**](https://www.youtube.com/watch?v=guZa7mQV1l0)
 * [**Spotify Engineering Culture part 1**](https://youtu.be/Mpsn3WaI_4k)
+* [**The happy secret to better work | Shawn Achor**](https://youtu.be/fLJsdqxnZb0)
 
 ##Podcasts
 
