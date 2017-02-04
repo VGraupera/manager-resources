@@ -62,3 +62,7 @@ This is a curated list of talks, books, and other resources for front line engin
 ##Twitter
 
 * [**Picard Tips**](https://twitter.com/PicardTips)
+
+##Quotes
+
+* "We don't rise to the level of our expectations, we fall to the level of our training." ― Archilochos
