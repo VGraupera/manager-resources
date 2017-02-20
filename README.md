@@ -71,4 +71,6 @@ This is a curated list of talks, books, and other resources for front line engin
 * “The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.” – Theodore Roosevelt
 * "What's measured improves" - Peter F. Drucker
 
+##Humor
 
+[**Dilbert cartoons tagged with management**](http://dilbert.com/search_results?terms=management)
