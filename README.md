@@ -68,5 +68,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * "We don't rise to the level of our expectations, we fall to the level of our training." ― Archilochos
 * "Reading a book about management isn't going to make you a good manager any more than a book about guitar will make you a good guitarist, but it can get you thinking about the most important concepts." ― Drew Houston
 * "The prevailing system of management has crushed fun out of the workplace." ― W. Edwards Deming
+* “The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.” – Theodore Roosevelt
+* "What's measured improves" - Peter F. Drucker
 
 
