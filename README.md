@@ -81,4 +81,4 @@ This is a curated list of talks, books, and other resources for front line engin
 
 ##Misc
 
-* [**GitLab team handbook **](https://about.gitlab.com/handbook/)
+* [**GitLab team handbook**](https://about.gitlab.com/handbook/)
