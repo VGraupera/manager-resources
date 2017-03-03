@@ -55,12 +55,13 @@ This is a curated list of talks, books, and other resources for front line engin
 ##Posts
 
 * [**This 90-Day Plan Turns Engineers into Remarkable Managers**](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
-* [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+* [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
+* [**What Great Managers Do**](https://hbr.org/2005/03/what-great-managers-do)
 * [**Average Manager vs. Great Manager Explained in 10 sketches**](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d#.9cva05mvz)
 * [**Google’s Quest to Build a Better Boss**](http://www.nytimes.com/2011/03/13/business/13hire.html?_r=0)
 * [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.pk2x55tcs)
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
-* [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
+* [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
 ##Twitter
 
