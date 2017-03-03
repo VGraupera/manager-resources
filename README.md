@@ -77,4 +77,8 @@ This is a curated list of talks, books, and other resources for front line engin
 
 ##Humor
 
-[**Dilbert cartoons tagged with management**](http://dilbert.com/search_results?terms=management)
+* [**Dilbert cartoons tagged with management**](http://dilbert.com/search_results?terms=management)
+
+##Misc
+
+* [**GitLab team handbook **](https://about.gitlab.com/handbook/)
