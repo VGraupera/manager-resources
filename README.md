@@ -40,6 +40,7 @@ This is a curated list of talks, books, and other resources for front line engin
 * [**Spotify Engineering Culture part 1**](https://youtu.be/Mpsn3WaI_4k)
 * [**The happy secret to better work | Shawn Achor**](https://youtu.be/fLJsdqxnZb0)
 * [**How to speak so that people want to listen | Julian Treasure**](https://www.youtube.com/watch?v=eIho2S0ZahI)
+* [**How miscommunication happens (and how to avoid it) - Katherine Hampsten**](https://www.youtube.com/watch?v=gCfzeONu3Mo)
 
 ##Podcasts
 
