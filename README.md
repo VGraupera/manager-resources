@@ -1,6 +1,8 @@
 # :point_right: **Manager Resources** :point_left: 
 This is a curated list of talks, books, and other resources for front line engineering managers. Hopefully you can find them useful. Whenever I find another resource that is worth adding, I will update this list. Suggestions are always appreciated through a pull request.
 
+If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) or on [linkedin](https://www.linkedin.com/in/vidalgraupera/).
+
 ##Books
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388571/cab73956-fd17-11e6-816d-a1b3a6168fe7.jpg" width="100"> [**The Effective Manager**](https://www.amazon.com/Effective-Manager-Mark-Horstman/dp/1119244609/ref=sr_1_1?s=books&ie=UTF8&qid=1474465865&sr=1-1&keywords=manager+tools)
