@@ -31,6 +31,8 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Shine: Using Brain Science to Get the Best from Your People**](https://www.amazon.com/Shine-Using-Brain-Science-People/dp/1591399238) A noted brain scientist explains how managers can build a more effective workforce by studying what the latest research reveals about how people think.
 * [**The 48 Laws of Power**](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) Draws on the philosophies of Machiavelli, Sun-tzu, Von Clausewitz, and others, combining them with the legacies of powerful people throughout history to offer essential ideas of the ways of power.
 * [**The Knowing-Doing Gap: How Smart Companies Turn Knowledge into Action**](https://www.amazon.com/Knowing-Doing-Gap-Companies-Knowledge-Action/dp/1578511240) "Did you ever wonder why so much education and training, management consultation, organizational research and so many books and articles produce so few changes in actual management practice?" ask Stanford University professors Pfeffer and Sutton.
+* [**High Output Management**] (https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+* [**The Effective Executive: The Definitive Guide to Getting the Right Things Done **] (https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC)
 
 ##Videos
 
