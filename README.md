@@ -32,7 +32,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The 48 Laws of Power**](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) Draws on the philosophies of Machiavelli, Sun-tzu, Von Clausewitz, and others, combining them with the legacies of powerful people throughout history to offer essential ideas of the ways of power.
 * [**The Knowing-Doing Gap: How Smart Companies Turn Knowledge into Action**](https://www.amazon.com/Knowing-Doing-Gap-Companies-Knowledge-Action/dp/1578511240) "Did you ever wonder why so much education and training, management consultation, organizational research and so many books and articles produce so few changes in actual management practice?" ask Stanford University professors Pfeffer and Sutton.
 * [**High Output Management**] (https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-* [**The Effective Executive: The Definitive Guide to Getting the Right Things Done **] (https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC)
+* [**The Effective Executive: The Definitive Guide to Getting the Right Things Done**] (https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC)
 
 ##Videos
 
