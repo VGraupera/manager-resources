@@ -70,6 +70,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 ##Twitter
 
 * [**Picard Tips**](https://twitter.com/PicardTips)
+* [**Thinkers50**](https://twitter.com/thinkers50)
 
 ##Quotes
 
