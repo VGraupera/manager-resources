@@ -3,7 +3,7 @@ This is a curated list of talks, books, and other resources for front line engin
 
 If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) or on [linkedin](https://www.linkedin.com/in/vidalgraupera/).
 
-##Books
+## Books
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388571/cab73956-fd17-11e6-816d-a1b3a6168fe7.jpg" width="100"> [**The Effective Manager**](https://www.amazon.com/Effective-Manager-Mark-Horstman/dp/1119244609/ref=sr_1_1?s=books&ie=UTF8&qid=1474465865&sr=1-1&keywords=manager+tools) The how-to guide for exceptional management from the bottom up that serves as a hands-on practical guide to great management at every level.
 * <img src="https://cloud.githubusercontent.com/assets/10377/23677177/eaf31844-0333-11e7-8714-ad3f2c7c1501.jpg" width="100"> [**Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead**](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/ref=sr_1_1?s=books&ie=UTF8&qid=1474466214&sr=1-1&keywords=google+management) Drawing on the latest research in behavioral economics and human psychology, provides teaching examples of how businesses achieve spectacular results by valuing and listening to their employees.
@@ -24,18 +24,18 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**High Output Management**] (https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 * [**The Effective Executive: The Definitive Guide to Getting the Right Things Done**] (https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC)
 
-###Hiring
+### Hiring
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388575/cf4daf18-fd17-11e6-834c-0371168fc183.jpg" width="100"> [**Topgrading, 3rd Edition: The Proven Hiring and Promoting Method That Turbocharges Company Performance**](https://www.amazon.com/Topgrading-3rd-Promoting-Turbocharges-Performance/dp/1591845262/ref=sr_1_1?s=books&ie=UTF8&qid=1474466051&sr=1-1&keywords=topgrading) Describes how to use the Topgrading system to boost hiring success rates to find the highest performing prospective employees, helping to solve the problems of resume dishonesty, shallow interviews, and biased references.
 * [**Who: The A Method for Hiring**](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194) A manager's guide to hiring the right employees draws on the expertise of hundreds of high-level executives to present a simple, easy-to-follow program to guarantee hiring success.
 
-###Influence
+### Influence
 
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) The classic book on persuasion which explains the psychology of why people say "yes"—and how to apply these understandings.
 * [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) Examines the art of effective persuasion to argue that its secret lies in a key moment before messages are delivered, sharing strategies for how to psychologically prepare one's listeners to render them most receptive.
 * [**Swayed: How to Communicate for Impact**](https://www.amazon.com/Swayed-Communicate-Impact-Christina-Harbridge/dp/0997296240)
 
-###Software Engineering Management Specific
+### Software Engineering Management Specific
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388382/bd8c3a3e-fd16-11e6-8fef-51fa1e1df5d2.png" width="100"> [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition**](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?s=books&ie=UTF8&qid=1474465915&sr=1-1&keywords=managing+humans) Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland.
 * [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/) A selection of essays that will appeal to programmers and their managers is culled from the author's Web site which covers every imaginable aspect of software programming from writing code to designing an office in which to write code.
@@ -44,7 +44,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/) A book on the social side of software development, specifically managing project teams.
 * [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321) In this book, leading thinkers offer essays that uncover the truth and unmask myths commonly held among the software development community.
 
-##Videos
+## Videos
 
 * [**Everyday Leadership**](http://www.ted.com/talks/drew_dudley_everyday_leadership?language=en)
 * [**Start with why -- how great leaders inspire action | Simon Sinek**](https://youtu.be/u4ZoJKF_VuA)
@@ -56,17 +56,17 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**How to speak so that people want to listen | Julian Treasure**](https://www.youtube.com/watch?v=eIho2S0ZahI)
 * [**How miscommunication happens (and how to avoid it) - Katherine Hampsten**](https://www.youtube.com/watch?v=gCfzeONu3Mo)
 
-##Podcasts
+## Podcasts
 
 * [**Manager Tools Podcast**](https://www.manager-tools.com/podcasts)
 * [**HBR IdeaCast**](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2)
 
-##Presentations
+## Presentations
 
 * [**Netflix Culture: Freedom & Responsibility**](http://www.slideshare.net/reed2001/culture-1798664)
 * [**The Hubspot Culture Code**](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 
-##Posts
+## Posts
 
 * [**This 90-Day Plan Turns Engineers into Remarkable Managers**](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
@@ -77,12 +77,12 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
 * [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 
-##Twitter
+## Twitter
 
 * [**Picard Tips**](https://twitter.com/PicardTips)
 * [**Thinkers50**](https://twitter.com/thinkers50)
 
-##Quotes
+## Quotes
 
 * "We don't rise to the level of our expectations, we fall to the level of our training." ― Archilochos
 * "Reading a book about management isn't going to make you a good manager any more than a book about guitar will make you a good guitarist, but it can get you thinking about the most important concepts." ― Drew Houston
@@ -90,10 +90,10 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * “The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.” – Theodore Roosevelt
 * "What's measured improves" - Peter F. Drucker
 
-##Humor
+## Humor
 
 * [**Dilbert cartoons tagged with management**](http://dilbert.com/search_results?terms=management)
 
-##Misc
+## Misc
 
 * [**GitLab team handbook**](https://about.gitlab.com/handbook/)
