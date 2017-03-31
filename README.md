@@ -44,6 +44,16 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/) A book on the social side of software development, specifically managing project teams.
 * [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321) In this book, leading thinkers offer essays that uncover the truth and unmask myths commonly held among the software development community.
 
+## Communities
+
+* [**Silicon Valley Engineering Leadership Community**](https://www.meetup.com/SV-ELC/)
+
+## Assessment Tools
+
+* [**Kolbe Index**](http://kolbe.com/)
+* [**The Birkman Method**](https://birkman.com/)
+* [**Tilt Profile**](https://www.tilt365.com/)
+
 ## Videos
 
 * [**Everyday Leadership**](http://www.ted.com/talks/drew_dudley_everyday_leadership?language=en)
