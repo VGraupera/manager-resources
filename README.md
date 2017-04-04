@@ -34,6 +34,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Influence: The Psychology of Persuasion**](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) The classic book on persuasion which explains the psychology of why people say "yes"—and how to apply these understandings.
 * [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) Examines the art of effective persuasion to argue that its secret lies in a key moment before messages are delivered, sharing strategies for how to psychologically prepare one's listeners to render them most receptive.
 * [**Swayed: How to Communicate for Impact**](https://www.amazon.com/Swayed-Communicate-Impact-Christina-Harbridge/dp/0997296240) A must read for anyone serious about the positive power of persuasion, from a leading behavioral change expert.
+* [**How to Win Friends & Influence People**](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
 ### Software Engineering Management Specific
 
