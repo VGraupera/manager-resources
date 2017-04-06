@@ -114,3 +114,4 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 ## Misc
 
 * [**GitLab team handbook**](https://about.gitlab.com/handbook/)
+* [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
