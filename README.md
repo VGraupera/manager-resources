@@ -101,6 +101,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 
 ## Quotes
 
+* "There are no bad soldiers, only bad officers." - Napoleon Bonaparte
 * "We don't rise to the level of our expectations, we fall to the level of our training." ― Archilochos
 * "Reading a book about management isn't going to make you a good manager any more than a book about guitar will make you a good guitarist, but it can get you thinking about the most important concepts." ― Drew Houston
 * "The prevailing system of management has crushed fun out of the workplace." ― W. Edwards Deming
