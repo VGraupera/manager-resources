@@ -49,6 +49,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 ## Communities
 
 * [**Silicon Valley Engineering Leadership Community**](https://www.meetup.com/SV-ELC/)
+* [**/r/AskManagement/ on Reddit**](https://www.reddit.com/r/AskManagement/)
 
 ## Assessment Tools
 
