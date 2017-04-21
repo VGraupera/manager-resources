@@ -117,4 +117,5 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 ## Misc
 
 * [**GitLab team handbook**](https://about.gitlab.com/handbook/)
+* [**Handbook for New Employees - Valve**](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
