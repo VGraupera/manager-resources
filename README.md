@@ -68,6 +68,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The happy secret to better work | Shawn Achor**](https://youtu.be/fLJsdqxnZb0)
 * [**How to speak so that people want to listen | Julian Treasure**](https://www.youtube.com/watch?v=eIho2S0ZahI)
 * [**How miscommunication happens (and how to avoid it) - Katherine Hampsten**](https://www.youtube.com/watch?v=gCfzeONu3Mo)
+* [**How to Manage with Ben Horowitz**](https://www.youtube.com/watch?v=j7tr3IlH5Ro&t=599s)
 
 ## Podcasts
 
