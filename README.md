@@ -23,6 +23,8 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Knowing-Doing Gap: How Smart Companies Turn Knowledge into Action**](https://www.amazon.com/Knowing-Doing-Gap-Companies-Knowledge-Action/dp/1578511240) "Did you ever wonder why so much education and training, management consultation, organizational research and so many books and articles produce so few changes in actual management practice?" ask Stanford University professors Pfeffer and Sutton.
 * [**High Output Management**](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) In High Output Management, Andrew S. Grove, former chairman and CEO (and employee number three) of Intel, shares his perspective on how to build and run a company.
 * [**The Effective Executive: The Definitive Guide to Getting the Right Things Done**](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials-ebook/dp/B01F1WZGNC)  Peter F. Drucker’s timeless classic work on leadership and management, with a foreword by Jim Collins
+* [**The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations (J-B Leadership Challenge: Kouzes/Posner)**](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations/dp/1119278961/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1493242912&sr=8-2)
+* [**The Alliance: Managing Talent in the Networked Age**](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/ref=sr_1_2?ie=UTF8&qid=1493243098&sr=8-2&keywords=Jeff+Weiner)
 
 ### Hiring
 
