@@ -48,6 +48,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) A classic book on software engineering and project management by Fred Brooks, whose central theme is that "adding manpower to a late software project makes it later".
 * [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/) A book on the social side of software development, specifically managing project teams.
 * [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321) In this book, leading thinkers offer essays that uncover the truth and unmask myths commonly held among the software development community.
+* [**The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 ## Communities
 
