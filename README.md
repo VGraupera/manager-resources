@@ -27,6 +27,22 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Alliance: Managing Talent in the Networked Age**](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/ref=sr_1_2?ie=UTF8&qid=1493243098&sr=8-2&keywords=Jeff+Weiner)
 * [**Turn the Ship Around!: A True Story of Turning Followers into Leaders**](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 
+
+### Software Engineering Management Specific
+
+There are not that many books specific to managing software engineering teams so I have tried to list all known books here.
+
+* <img src="https://cloud.githubusercontent.com/assets/10377/23388382/bd8c3a3e-fd16-11e6-8fef-51fa1e1df5d2.png" width="100"> [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition**](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?s=books&ie=UTF8&qid=1474465915&sr=1-1&keywords=managing+humans) Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland.
+* [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/) A selection of essays that will appeal to programmers and their managers is culled from the author's Web site which covers every imaginable aspect of software programming from writing code to designing an office in which to write code.
+* <img src="https://cloud.githubusercontent.com/assets/10377/23388566/c6d33448-fd17-11e6-880f-6c52bbbd6c48.jpg" width="100"> [**Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams 1st Edition**](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X/ref=sr_1_1?s=books&ie=UTF8&qid=1474465952&sr=1-1&keywords=managing+the+unmanageable) Counsels managers on how to minimize the costs of high turnover, low morale and poor collaboration associated with difficult employees, outlining strategies for attracting and attaining desirable job candidates, communicating effectively and establishing action plans for transforming problematic workers into positive performers.
+* [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) A classic book on software engineering and project management by Fred Brooks, whose central theme is that "adding manpower to a late software project makes it later".
+* [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/) A book on the social side of software development, specifically managing project teams.
+* [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321) In this book, leading thinkers offer essays that uncover the truth and unmask myths commonly held among the software development community.
+* [**The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+* [**Behind Closed Doors, Secrets of Great Management by Johanna Rothman and Esther Derby**](https://pragprog.com/book/rdbcd/behind-closed-doors)
+* [**Becoming A Technical Leader, An Organic Problem Solving Approach**](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
+* [**Managing Software Maniacs: Finding, Managing, and Rewarding a Winning Development Team**](https://www.amazon.com/Managing-Software-Maniacs-Rewarding-Development/dp/0471009970)
+
 ### Hiring
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388575/cf4daf18-fd17-11e6-834c-0371168fc183.jpg" width="100"> [**Topgrading, 3rd Edition: The Proven Hiring and Promoting Method That Turbocharges Company Performance**](https://www.amazon.com/Topgrading-3rd-Promoting-Turbocharges-Performance/dp/1591845262/ref=sr_1_1?s=books&ie=UTF8&qid=1474466051&sr=1-1&keywords=topgrading) Describes how to use the Topgrading system to boost hiring success rates to find the highest performing prospective employees, helping to solve the problems of resume dishonesty, shallow interviews, and biased references.
@@ -38,17 +54,6 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) Examines the art of effective persuasion to argue that its secret lies in a key moment before messages are delivered, sharing strategies for how to psychologically prepare one's listeners to render them most receptive.
 * [**Swayed: How to Communicate for Impact**](https://www.amazon.com/Swayed-Communicate-Impact-Christina-Harbridge/dp/0997296240) A must read for anyone serious about the positive power of persuasion, from a leading behavioral change expert.
 * [**How to Win Friends & Influence People**](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) For more than sixty years the rock-solid, time-tested advice in this book by Dale Carnegie has carried thousands of now famous people up the ladder of success in their business and personal lives.
-
-
-### Software Engineering Management Specific
-
-* <img src="https://cloud.githubusercontent.com/assets/10377/23388382/bd8c3a3e-fd16-11e6-8fef-51fa1e1df5d2.png" width="100"> [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition**](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?s=books&ie=UTF8&qid=1474465915&sr=1-1&keywords=managing+humans) Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland.
-* [**Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity**](https://www.amazon.com/dp/1590593898/) A selection of essays that will appeal to programmers and their managers is culled from the author's Web site which covers every imaginable aspect of software programming from writing code to designing an office in which to write code.
-* <img src="https://cloud.githubusercontent.com/assets/10377/23388566/c6d33448-fd17-11e6-880f-6c52bbbd6c48.jpg" width="100"> [**Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams 1st Edition**](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People/dp/032182203X/ref=sr_1_1?s=books&ie=UTF8&qid=1474465952&sr=1-1&keywords=managing+the+unmanageable) Counsels managers on how to minimize the costs of high turnover, low morale and poor collaboration associated with difficult employees, outlining strategies for attracting and attaining desirable job candidates, communicating effectively and establishing action plans for transforming problematic workers into positive performers.
-* [**The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) A classic book on software engineering and project management by Fred Brooks, whose central theme is that "adding manpower to a late software project makes it later".
-* [**Peopleware: Productive Projects and Teams (3rd Edition)**](https://www.amazon.com/gp/product/0321934113/) A book on the social side of software development, specifically managing project teams.
-* [**Making Software: What Really Works, and Why We Believe It**](https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321) In this book, leading thinkers offer essays that uncover the truth and unmask myths commonly held among the software development community.
-* [**The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change**](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 ## Communities
 
@@ -73,6 +78,9 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**How to speak so that people want to listen | Julian Treasure**](https://www.youtube.com/watch?v=eIho2S0ZahI)
 * [**How miscommunication happens (and how to avoid it) - Katherine Hampsten**](https://www.youtube.com/watch?v=gCfzeONu3Mo)
 * [**How to Manage with Ben Horowitz**](https://www.youtube.com/watch?v=j7tr3IlH5Ro&t=599s)
+* [**Managing Software People and Teams - An Introduction**](https://www.youtube.com/watch?v=RZb8oaN9zNo)
+* [**If We’re Agile Why Do We Need Managers?**](https://www.youtube.com/watch?v=CBFoNz92Wro)
+* [**Crash Course: Managing Software People and Teams**](https://www.youtube.com/watch?v=XOeZ7oKPmF8)
 
 ## Podcasts
 
@@ -100,6 +108,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.pk2x55tcs)
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
 * [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+* [**Managing the Unmanageable: Resources**](http://www.managingtheunmanageable.net/resources.html)
 
 ## Twitter
 
@@ -124,3 +133,4 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**GitLab team handbook**](https://about.gitlab.com/handbook/)
 * [**Handbook for New Employees - Valve**](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
+* [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
