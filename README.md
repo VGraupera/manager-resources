@@ -109,6 +109,7 @@ There are not that many books specific to managing software engineering teams so
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
 * [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 * [**Managing the Unmanageable: Resources**](http://www.managingtheunmanageable.net/resources.html)
+* [**Results Or People: Where Should A Leader Focus?**](https://www.forbes.com/sites/travisbradberry/2016/12/23/results-or-people-which-deserves-a-leaders-attention/#8453547626c5)
 
 ## Twitter
 
