@@ -26,6 +26,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations (J-B Leadership Challenge: Kouzes/Posner)**](https://www.amazon.com/Leadership-Challenge-Extraordinary-Things-Organizations/dp/1119278961/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1493242912&sr=8-2)
 * [**The Alliance: Managing Talent in the Networked Age**](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/ref=sr_1_2?ie=UTF8&qid=1493243098&sr=8-2&keywords=Jeff+Weiner)
 * [**Turn the Ship Around!: A True Story of Turning Followers into Leaders**](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
+* [**The Goal: A Process of Ongoing Improvement**](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 
 
 ### Software Engineering Management Specific
@@ -42,6 +43,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Behind Closed Doors, Secrets of Great Management by Johanna Rothman and Esther Derby**](https://pragprog.com/book/rdbcd/behind-closed-doors)
 * [**Becoming A Technical Leader, An Organic Problem Solving Approach**](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 * [**Managing Software Maniacs: Finding, Managing, and Rewarding a Winning Development Team**](https://www.amazon.com/Managing-Software-Maniacs-Rewarding-Development/dp/0471009970)
+* [**The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win**](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
 
 ### Hiring
 
