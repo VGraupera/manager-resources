@@ -27,6 +27,8 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Alliance: Managing Talent in the Networked Age**](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age-ebook/dp/B00JTJ84EW/ref=sr_1_2?ie=UTF8&qid=1493243098&sr=8-2&keywords=Jeff+Weiner)
 * [**Turn the Ship Around!: A True Story of Turning Followers into Leaders**](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 * [**The Goal: A Process of Ongoing Improvement**](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
+* [**The Leadership Pipeline: How to Build the Leadership Powered Company**](https://www.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776)
+* [**The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever**](https://www.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776)
 
 
 ### Software Engineering Management Specific
@@ -56,6 +58,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Pre-Suasion: A Revolutionary Way to Influence and Persuade**](https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109790) Examines the art of effective persuasion to argue that its secret lies in a key moment before messages are delivered, sharing strategies for how to psychologically prepare one's listeners to render them most receptive.
 * [**Swayed: How to Communicate for Impact**](https://www.amazon.com/Swayed-Communicate-Impact-Christina-Harbridge/dp/0997296240) A must read for anyone serious about the positive power of persuasion, from a leading behavioral change expert.
 * [**How to Win Friends & Influence People**](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) For more than sixty years the rock-solid, time-tested advice in this book by Dale Carnegie has carried thousands of now famous people up the ladder of success in their business and personal lives.
+* [**Never Split the Difference: Negotiating As If Your Life Depended On It**](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations—whether in the boardroom or at home.
 
 ## Communities
 
@@ -101,7 +104,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Netflix Culture: Freedom & Responsibility**](http://www.slideshare.net/reed2001/culture-1798664)
 * [**The Hubspot Culture Code**](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
 
-## Posts
+## Posts and Blogs
 
 * [**This 90-Day Plan Turns Engineers into Remarkable Managers**](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [**Google's re:Work Manager Guide**](https://rework.withgoogle.com/subjects/managers/)
@@ -113,6 +116,8 @@ There are not that many books specific to managing software engineering teams so
 * [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
 * [**Managing the Unmanageable: Resources**](http://www.managingtheunmanageable.net/resources.html)
 * [**Results Or People: Where Should A Leader Focus?**](https://www.forbes.com/sites/travisbradberry/2016/12/23/results-or-people-which-deserves-a-leaders-attention/#8453547626c5)
+* [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
+* [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
 
 ## Twitter
 
@@ -137,5 +142,3 @@ There are not that many books specific to managing software engineering teams so
 * [**GitLab team handbook**](https://about.gitlab.com/handbook/)
 * [**Handbook for New Employees - Valve**](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
-* [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
-* [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
