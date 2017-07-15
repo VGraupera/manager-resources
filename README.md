@@ -138,3 +138,4 @@ There are not that many books specific to managing software engineering teams so
 * [**Handbook for New Employees - Valve**](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
 * [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
+* [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
