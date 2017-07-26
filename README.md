@@ -29,6 +29,7 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 * [**The Goal: A Process of Ongoing Improvement**](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 * [**The Leadership Pipeline: How to Build the Leadership Powered Company**](https://www.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776)
 * [**The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever**](https://www.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776)
+* [**My Years with General Motors**](https://www.amazon.com/Years-General-Motors-Alfred-Sloan/dp/0385042353) became an instant bestseller when it was first published in 1963. It has since been used as a manual for managers, offering personal glimpses into the practice of the "discipline of management" by the man who perfected it.
 
 
 ### Software Engineering Management Specific
