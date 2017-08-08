@@ -119,6 +119,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Results Or People: Where Should A Leader Focus?**](https://www.forbes.com/sites/travisbradberry/2016/12/23/results-or-people-which-deserves-a-leaders-attention/#8453547626c5)
 * [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
 * [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
+* [**What are good questions to ask employees in one on one meetings? I just want my employees to be happy and productive. How can I make sure we're having good, honest, productive conversations?**](https://www.quora.com/What-are-good-questions-to-ask-employees-in-one-on-one-meetings-I-just-want-my-employees-to-be-happy-and-productive-How-can-I-make-sure-were-having-good-honest-productive-conversations)
 
 ## Twitter
 
