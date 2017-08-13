@@ -145,3 +145,4 @@ There are not that many books specific to managing software engineering teams so
 * [**Handbook for New Employees - Valve**](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
 * [**Basecamp Employee Handbook**](https://github.com/basecamp/handbook)
+* [**Ultimate List of 1:1 Questions for Managers**](https://docs.google.com/spreadsheets/d/1IcdZY_zmh_NbBUkJCc5ad17o9031iBhtOHkIc_6AQDc/edit?usp=sharing)
