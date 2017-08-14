@@ -47,6 +47,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Becoming A Technical Leader, An Organic Problem Solving Approach**](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 * [**Managing Software Maniacs: Finding, Managing, and Rewarding a Winning Development Team**](https://www.amazon.com/Managing-Software-Maniacs-Rewarding-Development/dp/0471009970)
 * [**The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win**](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+* [**Leading Snowflakes: The Engineering Manager Handbook**](http://leadingsnowflakes.com/)
 
 ### Hiring
 
