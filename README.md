@@ -123,6 +123,12 @@ There are not that many books specific to managing software engineering teams so
 * [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
 * [**What are good questions to ask employees in one on one meetings? I just want my employees to be happy and productive. How can I make sure we're having good, honest, productive conversations?**](https://www.quora.com/What-are-good-questions-to-ask-employees-in-one-on-one-meetings-I-just-want-my-employees-to-be-happy-and-productive-How-can-I-make-sure-were-having-good-honest-productive-conversations)
 
+## Email Newsletters
+
+* [**Software Lead Weekly**](http://softwareleadweekly.com/)
+* [**Tech Leadership Weekly**](http://www.techleadershipweekly.com/)
+* [**Leading Software People**](https://leadingsoftwarepeople.statushero.com/)
+
 ## Twitter
 
 * [**Picard Tips**](https://twitter.com/PicardTips)
