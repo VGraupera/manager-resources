@@ -104,6 +104,7 @@ There are not that many books specific to managing software engineering teams so
 
 * [**Netflix Culture: Freedom & Responsibility**](http://www.slideshare.net/reed2001/culture-1798664)
 * [**The Hubspot Culture Code**](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
+* [**Engineering your culture: How to keep your engineers happy**](https://speakerdeck.com/orenellenbogen/engineering-your-culture-how-to-keep-your-engineers-happy)
 
 ## Posts and Blogs
 
