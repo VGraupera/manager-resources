@@ -94,6 +94,7 @@ There are not that many books specific to managing software engineering teams so
 
 * [**Manager Tools Podcast**](https://www.manager-tools.com/podcasts)
 * [**HBR IdeaCast**](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2)
+* [**Simple Leadership -- the podacst for technology leaders**](http://simpleleadership.io/category/podcast/)
 
 ## Software Tools
 
