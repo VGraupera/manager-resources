@@ -67,6 +67,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Silicon Valley Engineering Leadership Community**](https://www.meetup.com/SV-ELC/)
 * [**San Francisco Engineering Leadership Community (SFELC)**](https://www.meetup.com/San-Francisco-Engineering-Leadership-Community/)
 * [**/r/AskManagement/ on Reddit**](https://www.reddit.com/r/AskManagement/)
+* [**Rand Leadership Slack Channel**](http://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## Assessment Tools
 
