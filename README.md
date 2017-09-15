@@ -69,6 +69,10 @@ There are not that many books specific to managing software engineering teams so
 * [**/r/AskManagement/ on Reddit**](https://www.reddit.com/r/AskManagement/)
 * [**Rand Leadership Slack Channel**](http://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
+## Other lists
+
+* [**Awesome Leading and Managing**](https://github.com/LappleApple/awesome-leading-and-managing)
+
 ## Assessment Tools
 
 * [**Kolbe Index**](http://kolbe.com/)
@@ -116,6 +120,7 @@ There are not that many books specific to managing software engineering teams so
 * [**What Great Managers Do**](https://hbr.org/2005/03/what-great-managers-do)
 * [**Average Manager vs. Great Manager Explained in 10 sketches**](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d#.9cva05mvz)
 * [**Google’s Quest to Build a Better Boss**](http://www.nytimes.com/2011/03/13/business/13hire.html?_r=0)
+* [**A Manager’s FAQ**](https://medium.com/eshares-blog/a-managers-faq-35858a229f84)
 * [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.pk2x55tcs)
 * [**You waste a lot of time at work Infographic**](https://www.atlassian.com/time-wasting-at-work-infographic)
 * [**Why Procrastinators Procrastinate**](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
