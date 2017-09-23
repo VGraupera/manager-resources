@@ -161,3 +161,4 @@ There are not that many books specific to managing software engineering teams so
 * [**Amazon.com Leadership Principles**](https://www.amazon.jobs/principles)
 * [**Basecamp Employee Handbook**](https://github.com/basecamp/handbook)
 * [**Ultimate List of 1:1 Questions for Managers**](https://docs.google.com/spreadsheets/d/1IcdZY_zmh_NbBUkJCc5ad17o9031iBhtOHkIc_6AQDc/edit?usp=sharing)
+* [**Welcome to Netflix & Roy**](https://docs.google.com/presentation/d/1bXrsLL9wwtbudLjnoG3F6J-NBcTTQ6KnGpukrSDmjW4/edit#slide=id.p)
