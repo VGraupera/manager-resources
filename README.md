@@ -129,6 +129,8 @@ There are not that many books specific to managing software engineering teams so
 * [**Ron Lichty: Thoughts on random acts of software engineering management...**](http://ronlichty.blogspot.com/)
 * [**Simple Leadership - Fast track to technology leadership**](http://simpleleadership.io/)
 * [**What are good questions to ask employees in one on one meetings? I just want my employees to be happy and productive. How can I make sure we're having good, honest, productive conversations?**](https://www.quora.com/What-are-good-questions-to-ask-employees-in-one-on-one-meetings-I-just-want-my-employees-to-be-happy-and-productive-How-can-I-make-sure-were-having-good-honest-productive-conversations)
+* [**Unintuitive Things I’ve Learned about Management (Part 1)**](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b)
+* [**Share your Manager README**](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/)
 
 ## Email Newsletters
 
