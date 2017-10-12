@@ -106,6 +106,7 @@ There are not that many books specific to managing software engineering teams so
 * [**1on1tracker.com**](https://www.1on1tracker.com/) One on one tracking app for managers
 * [**Lighthouse**](https://getlighthouse.com/) Lighthouse helps you motivate your team, and prevent turnover, by helping you focus on the most important thing: Your People
 * [**Vibe**](https://vibe.work/) Morale Meter for Teams
+* [**101 questions**](https://veryhappythings.github.io/101-questions/) Automatically pick three things to ask in 1 on 1 meetings
 
 ## Presentations
 
