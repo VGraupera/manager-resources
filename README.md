@@ -72,6 +72,7 @@ There are not that many books specific to managing software engineering teams so
 ## Other lists
 
 * [**Awesome Leading and Managing**](https://github.com/LappleApple/awesome-leading-and-managing)
+* [**Engineering Manager Resources**](https://github.com/ryanburgess/engineer-manager)
 
 ## Assessment Tools
 
