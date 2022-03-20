@@ -140,6 +140,7 @@ There are not that many books specific to managing software engineering teams so
 * [**Software Lead Weekly**](http://softwareleadweekly.com/)
 * [**Tech Leadership Weekly**](http://www.techleadershipweekly.com/)
 * [**Leading Software People**](https://leadingsoftwarepeople.statushero.com/)
+* [**CTO Insights**](https://insights.toshotrajanov.com/)
 
 ## Twitter
 
