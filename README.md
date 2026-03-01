@@ -53,6 +53,7 @@ There are not that many books specific to managing software engineering teams so
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388575/cf4daf18-fd17-11e6-834c-0371168fc183.jpg" width="100"> [**Topgrading, 3rd Edition: The Proven Hiring and Promoting Method That Turbocharges Company Performance**](https://www.amazon.com/Topgrading-3rd-Promoting-Turbocharges-Performance/dp/1591845262/ref=sr_1_1?s=books&ie=UTF8&qid=1474466051&sr=1-1&keywords=topgrading) Describes how to use the Topgrading system to boost hiring success rates to find the highest performing prospective employees, helping to solve the problems of resume dishonesty, shallow interviews, and biased references.
 * [**Who: The A Method for Hiring**](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194) A manager's guide to hiring the right employees draws on the expertise of hundreds of high-level executives to present a simple, easy-to-follow program to guarantee hiring success.
+* [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 ### Influence
 
