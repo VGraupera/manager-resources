@@ -33,6 +33,8 @@ If you find this useful, follow me [@vgraupera](https://twitter.com/vgraupera) o
 
 ### Software Engineering Management Specific
 
+* [**Crafting Conflict Volume 1: Managing Saboteur Patterns in High-Performing Teams**](https://leanpub.com/craftingconflictv1) Paul LaPosta's field manual for engineering managers, with behavior-based conflict patterns, intervention scripts, escalation guidance and post-conflict repair tools.
+
 There are not that many books specific to managing software engineering teams so I have tried to list all known books here.
 
 * <img src="https://cloud.githubusercontent.com/assets/10377/23388382/bd8c3a3e-fd16-11e6-8fef-51fa1e1df5d2.png" width="100"> [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition**](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?s=books&ie=UTF8&qid=1474465915&sr=1-1&keywords=managing+humans) Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland.
